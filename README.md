@@ -1,0 +1,66 @@
+# cv
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PRINCE's PERSONAL SITE</title>
+</head>
+<body>
+    <table cellspacing="40px">
+        <tr>
+            <td>
+                <img  src="images/prince2.png" alt="Prince image" height="200px" width="200px">
+            </td>
+            <td>
+                <h1>PRINCE SONI</h1>
+                    <p><em>BCA <strong>STUDENT</strong></em></p>
+                    <p>My name is PRINCE SONI. I am a BCA student. I am from Haryana. I am completing my graduation from <strong><a href="https://sxca.edu.in/">ST. Xavier's College Ahmedabad</a></strong></p>
+            </td>
+        </tr>
+    </table>
+    <hr>
+    <h3>EDUCATION:</h3>
+    <ul>
+    <li>10th from CRDAV SCHOOL</li>
+    <li>12th from CRDAV SCHOOL</li>
+    <li>BCA from ST XAVIERS COLLEGE</li>
+    </ul>
+    <hr>
+    <h3>SKILLS</h3>
+    <table border="1">
+    <tr>
+        <td>
+        <table>
+        <tr >
+            <td>C PROGRAMMER</td>
+            <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+        <tr >
+            <td>WEB DEVELOPMENT</td>
+            <td>⭐⭐⭐</td>
+        </tr>
+        </table>
+        </td>
+
+        <td>
+            <table>
+            <tr >
+                <td>SQL</td>
+                <td>⭐⭐⭐⭐⭐</td>
+            </tr>
+            <tr >
+                <td>JAVA</td>
+                <td>⭐⭐⭐</td>
+            </tr>
+            </table>
+        </td>
+    </tr>
+    </table>
+    <hr>
+    <a href="hobbies.html">MY HOBBIES</a>
+    <a href="contact.html"><h3>CONTACT ME..</h3></a>
+    <hr>
+</body>
+</html>
